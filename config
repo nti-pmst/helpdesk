@@ -3,6 +3,7 @@ version                   : 1.0.0
 author                    : Peter Širka
 
 url                       : https://helpdesk.totaljs.com
+bot-api-token             : 530000071:AAAAAAAAAAAAAAtU237pV9ri-kbZ1ZYBW_A
 
 // IMPORTANT: update the connection string below
 database                  : postgre://user:password@127.0.0.1/database
