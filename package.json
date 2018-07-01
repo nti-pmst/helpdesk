@@ -6,7 +6,7 @@
   "dependencies": {
     "total.js": "latest",
     "pg": "latest",
-    "sqlagent": "latest"
+    "sqlagent": "latest",
     "telegraf": "latest"
   },
   "scripts": {
