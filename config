@@ -6,7 +6,7 @@ url                       : https://helpdesk.totaljs.com
 bot-api-token             : bot-api-token
 
 // IMPORTANT: update the connection string below
-database                  : postgre://user:password@127.0.0.1/database
+database                  : postgre://nti:pmstadmin@127.0.0.1/helpdesk
 
 // Custom SMTP settings
 
